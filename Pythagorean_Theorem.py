@@ -17,7 +17,7 @@ print("""
                    ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝      
                    
 =========================================================================================================
-
+                          Script para calcular o Teorema de Pitágoras
   
                   _____b______
                   \        |_|
@@ -32,9 +32,8 @@ print("""
                            \ |
                             \|
                   
-    Não se preocupe, o Python calcula para você...
-    siga as instruções:
-  
+
+  siga as instruções:
       """)
 choice = (input("Qual lado a ser calculado? (a, b ou c): "))
 if choice == "c":
