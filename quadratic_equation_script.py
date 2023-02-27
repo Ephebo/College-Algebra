@@ -1,6 +1,6 @@
 """
 Tema: Equação de 2° grau
-Ferramenta: Python
+Tecnologia: Python
 Objetivo: Criar um script que peça um input do usuário e calcule uma equação de 2° grau.
 
 Aluno: Matheus Alves Dantas
