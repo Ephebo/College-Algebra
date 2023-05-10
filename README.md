@@ -6,4 +6,5 @@ A python repository with application to deal with high school math.
 |:------------------------------------------------------------:| 
 |              ✅Arithmetic_mean or averange                     |
 |                 ✅ Quadratic Equation                          |
+|                 ✅ Solving for X                               |
 
