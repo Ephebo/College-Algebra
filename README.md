@@ -1,5 +1,5 @@
 # Pymath
-A python repository with applications to deal with high school math.
+High school math in Python
 
 
 |                 ✅ Pythagorean Theorem                       |
