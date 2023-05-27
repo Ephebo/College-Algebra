@@ -1,4 +1,4 @@
-# Pymath
+# 
 High school math in Python
 
 
