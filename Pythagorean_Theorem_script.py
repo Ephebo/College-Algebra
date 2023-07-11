@@ -66,7 +66,7 @@ if choice == "c":
 elif choice == "b":
     a = float(input("  inserir valor do lado a: "))
     c = float(input("  inserir valor do lado c: "))
-    b = math.sqrt(a**2 + c**2) # Aplica a fórmula de Pitágoras para calcular o lado b
+    b = math.sqrt(a**2 - c**2) # Aplica a fórmula de Pitágoras para calcular o lado b
  
     # Imprime o resultado
     print(f"""
@@ -93,7 +93,7 @@ elif choice == "a":
     # Se o usuário escolher calcular o lado a
     c = float(input("  inserir valor do lado c: "))
     b = float(input("  inserir valor do lado b: "))
-    a = math.sqrt(c**2 + b**2) # Aplica a fórmula de Pitágoras para calcular o lado a
+    a = math.sqrt(c**2 - b**2) # Aplica a fórmula de Pitágoras para calcular o lado a
 
     # Imprime o resultado
     print(f"""
